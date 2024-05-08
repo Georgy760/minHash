@@ -1,0 +1,190 @@
+<mxfile host="app.diagrams.net" modified="2024-05-08T21:51:53.039Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="WEfl8zyxNR0HRU71S48H" version="24.2.3" type="github">
+  <diagram id="0rKH31RH1gK04HkkCE-X" name="Page-1">
+    <mxGraphModel dx="1687" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-40" value="Главное меню" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" parent="1" vertex="1">
+          <mxGeometry y="80" width="320" height="70" as="geometry">
+            <mxRectangle x="30" y="80" width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-12" value="Список объектов" style="rounded=1;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-40" vertex="1">
+          <mxGeometry y="30" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-10" value="Отчеты&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dnone%3Bhtml%3D1%3Brounded%3D0%3BexitX%3D0%3BexitY%3D0.75%3BexitDx%3D0%3BexitDy%3D0%3BentryX%3D1%3BentryY%3D0.75%3BentryDx%3D0%3BentryDy%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22200%22%20y%3D%22540%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22490%22%20y%3D%22540%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-40" vertex="1">
+          <mxGeometry x="160" y="30" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-56" value="Список доступных объектов" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="250" width="160" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-27" value="Название:&lt;div&gt;Описание:&lt;/div&gt;&lt;div&gt;Расположение:&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-56" vertex="1">
+          <mxGeometry y="30" width="160" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-29" value="Выбрать" style="rounded=1;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-56" vertex="1">
+          <mxGeometry y="75" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-135" value="" style="group" parent="HCMA_kpLhSBOT4i-iIWN-56" vertex="1" connectable="0">
+          <mxGeometry y="115" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-133" value="&amp;lt;-" style="rounded=1;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-135" vertex="1">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-134" value="-&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-135" vertex="1">
+          <mxGeometry x="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HCMA_kpLhSBOT4i-iIWN-12" target="HCMA_kpLhSBOT4i-iIWN-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-67" value="Подтверждение" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" parent="1" vertex="1">
+          <mxGeometry x="235" y="450" width="160" height="110" as="geometry">
+            <mxRectangle x="265" y="450" width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-33" value="Вы уверены что хотите выбрать: &amp;lt;Название&amp;gt;?" style="whiteSpace=wrap;html=1;rounded=0;" parent="HCMA_kpLhSBOT4i-iIWN-67" vertex="1">
+          <mxGeometry y="30" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-36" value="Отменить" style="rounded=1;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-67" vertex="1">
+          <mxGeometry y="70" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-35" value="Подтвердить" style="rounded=1;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-67" vertex="1">
+          <mxGeometry x="80" y="70" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HCMA_kpLhSBOT4i-iIWN-36" target="HCMA_kpLhSBOT4i-iIWN-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-72" value="Объект &amp;lt;N&amp;gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" parent="1" vertex="1">
+          <mxGeometry x="460" y="265" width="160" height="115" as="geometry">
+            <mxRectangle x="490" y="265" width="80" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-73" value="Название:&lt;div&gt;Описание:&lt;/div&gt;&lt;div&gt;Расположение:&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-72" vertex="1">
+          <mxGeometry y="30" width="160" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-79" value="Открыть смену" style="rounded=1;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-72" vertex="1">
+          <mxGeometry y="75" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HCMA_kpLhSBOT4i-iIWN-80" target="HCMA_kpLhSBOT4i-iIWN-85" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-80" value="Подтверждение" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" parent="1" vertex="1">
+          <mxGeometry x="460" y="450" width="160" height="110" as="geometry">
+            <mxRectangle x="490" y="450" width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-81" value="Открыть/Закрыть смену: &amp;lt;Название&amp;gt;?" style="whiteSpace=wrap;html=1;rounded=0;" parent="HCMA_kpLhSBOT4i-iIWN-80" vertex="1">
+          <mxGeometry y="30" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-82" value="Отменить" style="rounded=1;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-80" vertex="1">
+          <mxGeometry y="70" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-83" value="Подтвердить" style="rounded=1;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-80" vertex="1">
+          <mxGeometry x="80" y="70" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HCMA_kpLhSBOT4i-iIWN-79" target="HCMA_kpLhSBOT4i-iIWN-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-85" value="Объект" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" parent="1" vertex="1">
+          <mxGeometry x="460" y="610" width="160" height="115" as="geometry">
+            <mxRectangle x="490" y="610" width="80" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-86" value="Название:&lt;div&gt;Описание:&lt;/div&gt;&lt;div&gt;Расположение:&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-85" vertex="1">
+          <mxGeometry y="30" width="160" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-87" value="Открыть/З&lt;span style=&quot;background-color: initial;&quot;&gt;акрыть перерыв&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-85" vertex="1">
+          <mxGeometry y="75" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-89" value="Закрыть смену" style="rounded=1;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-85" vertex="1">
+          <mxGeometry x="80" y="75" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-90" value="Отчет" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" parent="1" vertex="1">
+          <mxGeometry x="60" y="710" width="320" height="275" as="geometry">
+            <mxRectangle x="90" y="710" width="80" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-90" source="HCMA_kpLhSBOT4i-iIWN-91" target="HCMA_kpLhSBOT4i-iIWN-95" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-97" value="Error" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HCMA_kpLhSBOT4i-iIWN-96" vertex="1" connectable="0">
+          <mxGeometry x="0.1209" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-90" source="HCMA_kpLhSBOT4i-iIWN-91" target="HCMA_kpLhSBOT4i-iIWN-98" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-91" value="Название:&lt;div&gt;Описание:&lt;/div&gt;&lt;div&gt;Расположение:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;----------------------&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Отправьте отчет с фотофиксацией:&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-90" vertex="1">
+          <mxGeometry y="30" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-90" source="HCMA_kpLhSBOT4i-iIWN-95" target="HCMA_kpLhSBOT4i-iIWN-91" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-95" value="Прикрепите фото и описание" style="rounded=0;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-90" vertex="1">
+          <mxGeometry y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-98" value="Отчет успешно отправлен!" style="whiteSpace=wrap;html=1;rounded=0;" parent="HCMA_kpLhSBOT4i-iIWN-90" vertex="1">
+          <mxGeometry x="200" y="30" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HCMA_kpLhSBOT4i-iIWN-101" target="HCMA_kpLhSBOT4i-iIWN-90" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-101" value="Подтверждение" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" parent="1" vertex="1">
+          <mxGeometry x="500" y="770" width="160" height="110" as="geometry">
+            <mxRectangle x="490" y="450" width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-102" value="Открыть/Закрыть смену: &amp;lt;Название&amp;gt;?" style="whiteSpace=wrap;html=1;rounded=0;" parent="HCMA_kpLhSBOT4i-iIWN-101" vertex="1">
+          <mxGeometry y="30" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-103" value="Отменить" style="rounded=1;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-101" vertex="1">
+          <mxGeometry y="70" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-104" value="Подтвердить" style="rounded=1;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-101" vertex="1">
+          <mxGeometry x="80" y="70" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HCMA_kpLhSBOT4i-iIWN-89" target="HCMA_kpLhSBOT4i-iIWN-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HCMA_kpLhSBOT4i-iIWN-35" target="HCMA_kpLhSBOT4i-iIWN-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-118" value="Список отчетов" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="343" y="30" width="165" height="195" as="geometry">
+            <mxRectangle x="425" y="50" width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-126" value="Название:&lt;div&gt;Описание:&lt;/div&gt;&lt;div&gt;Расположение:&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-118" vertex="1">
+          <mxGeometry y="30" width="165" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-127" value="Приложенные документы" style="rounded=1;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-118" vertex="1">
+          <mxGeometry y="75" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-139" value="" style="group" parent="HCMA_kpLhSBOT4i-iIWN-118" vertex="1" connectable="0">
+          <mxGeometry y="115" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-140" value="&amp;lt;-" style="rounded=1;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-139" vertex="1">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-141" value="-&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-139" vertex="1">
+          <mxGeometry x="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-130" value="В главное меню" style="rounded=1;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-118" vertex="1">
+          <mxGeometry y="155" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HCMA_kpLhSBOT4i-iIWN-10" target="HCMA_kpLhSBOT4i-iIWN-118" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-128" value="Фото&lt;div&gt;----------&lt;/div&gt;&lt;div&gt;Приложенное описание&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HCMA_kpLhSBOT4i-iIWN-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HCMA_kpLhSBOT4i-iIWN-127" target="HCMA_kpLhSBOT4i-iIWN-128" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U9AXKrG7fH3xZ--98gtg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HCMA_kpLhSBOT4i-iIWN-29" target="HCMA_kpLhSBOT4i-iIWN-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
