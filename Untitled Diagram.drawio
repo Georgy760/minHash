@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T21:51:53.039Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="WEfl8zyxNR0HRU71S48H" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T21:54:43.863Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="mFpTjhkYyQBTg4UiWLB9" version="24.2.3" type="github">
   <diagram id="0rKH31RH1gK04HkkCE-X" name="Page-1">
-    <mxGraphModel dx="1687" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,18 +150,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HCMA_kpLhSBOT4i-iIWN-118" value="Список отчетов" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="343" y="30" width="165" height="195" as="geometry">
+          <mxGeometry x="343" y="30" width="160" height="195" as="geometry">
             <mxRectangle x="425" y="50" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HCMA_kpLhSBOT4i-iIWN-126" value="Название:&lt;div&gt;Описание:&lt;/div&gt;&lt;div&gt;Расположение:&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-118" vertex="1">
-          <mxGeometry y="30" width="165" height="45" as="geometry" />
+          <mxGeometry y="30" width="160" height="45" as="geometry" />
         </mxCell>
         <mxCell id="HCMA_kpLhSBOT4i-iIWN-127" value="Приложенные документы" style="rounded=1;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-118" vertex="1">
-          <mxGeometry y="75" width="165" height="40" as="geometry" />
+          <mxGeometry y="75" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HCMA_kpLhSBOT4i-iIWN-139" value="" style="group" parent="HCMA_kpLhSBOT4i-iIWN-118" vertex="1" connectable="0">
-          <mxGeometry y="115" width="165" height="40" as="geometry" />
+          <mxGeometry y="115" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HCMA_kpLhSBOT4i-iIWN-140" value="&amp;lt;-" style="rounded=1;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-139" vertex="1">
           <mxGeometry width="80" height="40" as="geometry" />
@@ -170,7 +170,7 @@
           <mxGeometry x="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HCMA_kpLhSBOT4i-iIWN-130" value="В главное меню" style="rounded=1;whiteSpace=wrap;html=1;" parent="HCMA_kpLhSBOT4i-iIWN-118" vertex="1">
-          <mxGeometry y="155" width="165" height="40" as="geometry" />
+          <mxGeometry y="155" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HCMA_kpLhSBOT4i-iIWN-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HCMA_kpLhSBOT4i-iIWN-10" target="HCMA_kpLhSBOT4i-iIWN-118" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -181,7 +181,7 @@
         <mxCell id="HCMA_kpLhSBOT4i-iIWN-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HCMA_kpLhSBOT4i-iIWN-127" target="HCMA_kpLhSBOT4i-iIWN-128" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U9AXKrG7fH3xZ--98gtg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HCMA_kpLhSBOT4i-iIWN-29" target="HCMA_kpLhSBOT4i-iIWN-67">
+        <mxCell id="U9AXKrG7fH3xZ--98gtg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HCMA_kpLhSBOT4i-iIWN-29" target="HCMA_kpLhSBOT4i-iIWN-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
